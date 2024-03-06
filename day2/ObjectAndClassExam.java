@@ -63,6 +63,7 @@ public class ObjectAndClassExam {
         System.out.println(w1.name + "이 " + w1.attack + "의 데미지를 입힙니다."); // 이순신이 20의 데미지를 입힙민다.
         System.out.println(w1.name + "이 " + w1.attack + "의 데미지를 입힙니다."); // 강감찬이 15의 데미지를 입힙민다.
 
+
     }
 }
 
@@ -91,7 +92,7 @@ class Warrior {
     String name;
     int attack;
     int defense;
-}
 
+}
 
 // ===========================================================
