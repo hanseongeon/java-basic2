@@ -48,9 +48,3 @@ public class Reference {
     }
 }
 
-class Person {
-    String name;
-    int age;
-    String home;
-
-}
