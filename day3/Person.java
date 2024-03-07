@@ -7,8 +7,8 @@ public class Person {
     int age; // 객체의 함수가 공유하는 변수 -> 인스턴스 변수
     String home;
 
-    // 인류 평균 나이 - > 모든 사람이 공유하는 변수 -> 클래스 변수
-    static int averageAge = 30;
+
+    static int averageAge = 30; // 인류 평균 나이 - > 모든 사람이 공유하는 변수 -> 클래스 변수
 
     // static이 붙은 것은 static이 붙지 않은 것을 사용할 수 없음.
     // 객체의 변수와 함수에는 특별한 이유가 없으면 static을 붙이지 않는다.
