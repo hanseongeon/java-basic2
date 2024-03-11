@@ -1,4 +1,4 @@
-package day6;
+package day6.InputExam;
 
 import java.util.Scanner;
 
